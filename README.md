@@ -73,7 +73,7 @@ pkg install coreutils -y
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+https://github.com/CyberWithYousub/cyber-future
 ```
 
 ### 2️⃣ Go Inside Folder
