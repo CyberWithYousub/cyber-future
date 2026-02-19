@@ -27,7 +27,7 @@ log_event() {
 banner() {
     clear_screen
     echo -e "\e[1;32m"
-    figlet "CYBER FUTURE"
+    figlet "CyberWithYousub"
     echo -e "\e[0m"
     echo -e "\e[35m$MANAGER_NAME\e[0m"
     echo -e "\e[36mYouTube: $https://www.youtube.com/@cyberwithyousub\e[0m"
