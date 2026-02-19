@@ -79,7 +79,7 @@ git clone https://github.com/CyberWithYousub/cyber-future
 ### 2️⃣ Go Inside Folder
 
 ```bash
-cd YOUR_REPOSITORY
+cd cyber-future
 ```
 
 ### 3️⃣ Give Permission
@@ -97,7 +97,7 @@ chmod +x CyberwithYousub.sh
 OR
 
 ```bash
-bash bash.sh
+bash CyberwithYousub.sh
 ```
 
 ---
